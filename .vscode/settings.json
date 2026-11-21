@@ -1,0 +1,25 @@
+{
+    "files.exclude": {
+        ".devcontainer": true,
+        "scripts": true,
+        ".gitignore": true,
+        ".gitattributes": true,
+        "LICENSE": true,
+        ".vscode": true,
+        ".github": true,
+        ".classroom50.yaml": true,
+        "README.md": true,
+        ".specstory": true,
+        "classroom50-helper-extension": true,
+        "labs/lab*/*.png": true,
+        "classroom50": true,
+        "proctor-extension": true,
+        ".proctor": true
+    },
+    "workbench.editorAssociations": {
+        "*.md": "vscode.markdown.preview.editor"
+    },
+    "chat.disableAIFeatures": true,
+    "classroom50.labsRemoteUrl": "https://github.com/f2152026/verilog-exam-labs.git",
+    "classroom50.templateRemoteUrl": "https://github.com/f2152026/verilog-exam.git"
+}

@@ -1,0 +1,12 @@
+# Simulation and synthesis output (rebuilt by Compile/Run; never needed in the repo)
+artefacts/
+*.sim
+*.vcd
+
+# Build tools for the extension sources (instructor only)
+node_modules/
+extension-src/**/build/
+
+# OS / editor clutter
+.DS_Store
+Thumbs.db
